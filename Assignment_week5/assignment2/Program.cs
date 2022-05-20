@@ -6,7 +6,13 @@ namespace assignment2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Program program = new Program();
+            program.Start();
+        }
+
+        void Start()
+        {
+            
         }
     }
 }
