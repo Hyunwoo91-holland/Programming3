@@ -8,20 +8,21 @@ namespace assignment1
 
         private Logger()
         {
-            numberOfLines = 1;
+            numberOfLines = 0;
         }
 
         public static Logger GetInstance()
         {
             if (uniqueInstance == null)
                 uniqueInstance = new Logger();
-            else
-                numberOfLines++;
+            //else
+            //    numberOfLines++;
             return uniqueInstance;
         }
 
         public void Log(string place,string process)
         {
+            numberOfLines++;
             Console.WriteLine($"{numberOfLines} - [{place}] {process}");
         }
     }
