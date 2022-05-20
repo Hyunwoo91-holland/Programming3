@@ -1,24 +1,24 @@
-﻿<Properties StartupConfiguration="{CD5C5718-9609-4F8D-8670-1F3EBCF95C93}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="assignment1/MainSystem.cs">
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{CD5C5718-9609-4F8D-8670-1F3EBCF95C93}|Default">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="assignment1/Program.cs" Line="15" Column="1" />
-      <File FileName="assignment1/MainSystem.cs" Line="9" Column="10" />
-      <File FileName="assignment1/Logger.cs" />
-      <File FileName="assignment1/SubSystem.cs" />
+      <File FileName="assignment1/Program.cs" Line="11" Column="31" />
+      <File FileName="assignment1/MainSystem.cs" Line="13" Column="1" />
+      <File FileName="assignment1/Logger.cs" Line="17" Column="47" />
+      <File FileName="assignment1/SubSystem.cs" Line="9" Column="43" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Assignment_week5" expanded="True">
             <Node name="assignment1" expanded="True">
-              <Node name="MainSystem.cs" selected="True" />
+              <Node name="SubSystem.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.assignment1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.assignment1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
