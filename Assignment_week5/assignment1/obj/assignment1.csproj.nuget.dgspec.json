@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hyunwoosong/Desktop/Inholland-1.4/Design Patterns /Assignment_week5/assignment1/assignment1.csproj": {}
+    "/Users/hyunwoosong/Desktop/Inholland-1.4/Design Patterns /Programming_assignment/Assignment_week5/assignment1/assignment1.csproj": {}
   },
   "projects": {
-    "/Users/hyunwoosong/Desktop/Inholland-1.4/Design Patterns /Assignment_week5/assignment1/assignment1.csproj": {
+    "/Users/hyunwoosong/Desktop/Inholland-1.4/Design Patterns /Programming_assignment/Assignment_week5/assignment1/assignment1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hyunwoosong/Desktop/Inholland-1.4/Design Patterns /Assignment_week5/assignment1/assignment1.csproj",
+        "projectUniqueName": "/Users/hyunwoosong/Desktop/Inholland-1.4/Design Patterns /Programming_assignment/Assignment_week5/assignment1/assignment1.csproj",
         "projectName": "assignment1",
-        "projectPath": "/Users/hyunwoosong/Desktop/Inholland-1.4/Design Patterns /Assignment_week5/assignment1/assignment1.csproj",
+        "projectPath": "/Users/hyunwoosong/Desktop/Inholland-1.4/Design Patterns /Programming_assignment/Assignment_week5/assignment1/assignment1.csproj",
         "packagesPath": "/Users/hyunwoosong/.nuget/packages/",
-        "outputPath": "/Users/hyunwoosong/Desktop/Inholland-1.4/Design Patterns /Assignment_week5/assignment1/obj/",
+        "outputPath": "/Users/hyunwoosong/Desktop/Inholland-1.4/Design Patterns /Programming_assignment/Assignment_week5/assignment1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/hyunwoosong/.config/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.407/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
         }
       }
     }
